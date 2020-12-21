@@ -163,7 +163,9 @@
 
 ![resky](https://user-images.githubusercontent.com/13164104/102823376-1d869900-441e-11eb-9c15-e4562ebaef8d.png)
 
-僕の板は、ツイン、フリーキャンバーと呼ばれる独自の形状。
+僕の板は、[NOVEMBER RESKY 2019](https://www.novembermfg.com/boards/resky2019/) モデル。
+
+ツイン、フリーキャンバーと呼ばれる独自の形状。
 
 グラウンドトリックやジャンプ向きで、かつパウダーでの浮力を狙っているボード！
 
