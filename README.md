@@ -22,7 +22,7 @@
 
 # スノーボードの選び方
 
-![DSC_0131_1](https://user-images.githubusercontent.com/13164104/102814214-8a456780-440d-11eb-8fa3-d9e55ad4299d.jpg)
+![DSC_0897](https://user-images.githubusercontent.com/13164104/102814297-b19c3480-440d-11eb-9a6c-32fea3770dc5.JPG)
 
 販売しているスノーボードって、どんな種類があるか知ってる？
 
