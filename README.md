@@ -2,7 +2,7 @@
 
 # 初めに
 
-![DSC_0131_1](https://user-images.githubusercontent.com/13164104/102813811-d6dc7300-440c-11eb-92be-077c74ecec58.jpg)
+![yann-allegre-8FG9tt8qZ-8-unsplash](https://user-images.githubusercontent.com/13164104/102816583-9f23fa00-4411-11eb-9be6-fbc247667a90.jpg)
 
 ウィンタースポーツが好きな人なら、今年の降雪量にワクワクしていることでしょうね！
 
@@ -22,7 +22,7 @@
 
 # スノーボードの選び方
 
-![DSC_0897](https://user-images.githubusercontent.com/13164104/102814297-b19c3480-440d-11eb-9a6c-32fea3770dc5.JPG)
+![csaba-balazs-Z_Q301U3mLc-unsplash](https://user-images.githubusercontent.com/13164104/102816872-0e99e980-4412-11eb-9926-ac079b5f1ad8.jpg)
 
 販売しているスノーボードって、どんな種類があるか知ってる？
 
