@@ -58,7 +58,7 @@
 
 ### ツイン
 
-![twin](https://user-images.githubusercontent.com/13164104/102819856-9fbf8f00-4417-11eb-844d-db3c0389ea25.png)
+![twin](https://user-images.githubusercontent.com/13164104/102820162-24aaa880-4418-11eb-92f8-8235ddd3ae85.png)
 
 **ノーズとテールが全く同じ長さ**で、ど真ん中に重心がある形状。
 
