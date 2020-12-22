@@ -86,7 +86,7 @@
 
 ### ロッカー
 
-![flat](https://user-images.githubusercontent.com/13164104/102852349-66137600-4461-11eb-8928-6badc0ee5cf1.png)
+![rocker](https://user-images.githubusercontent.com/13164104/102853545-e044fa00-4463-11eb-9c99-eaa55b26ed9b.png)
 
 **中央から先端に向けて湾曲**した形状。
 
