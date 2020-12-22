@@ -50,7 +50,7 @@
 
 ### ディレクショナル
 
-![directional](https://user-images.githubusercontent.com/13164104/102820938-743da400-4419-11eb-809b-568c12826637.png)
+![directional](https://user-images.githubusercontent.com/13164104/102853313-690f6600-4463-11eb-922b-e8bc6eecfb60.png)
 
 ノーズ（前側）とテール（後側）を比較したとき、**ノーズの方が長く、太くなっている**形状。
 
@@ -60,8 +60,7 @@
 
 ### ツイン
 
-![twin](https://user-images.githubusercontent.com/13164104/102820334-6dfaf800-4418-11eb-84f0-95a87e1597de.png)
-
+![twin](https://user-images.githubusercontent.com/13164104/102853335-79bfdc00-4463-11eb-8921-cd722aab6538.png)
 
 **ノーズとテールが全く同じ長さ**で、ど真ん中に重心がある形状。
 
@@ -77,7 +76,7 @@
 
 ### キャンバー
 
-![canver](https://user-images.githubusercontent.com/13164104/102822417-5de51780-441c-11eb-82e2-9a838516d349.png)
+![canver](https://user-images.githubusercontent.com/13164104/102852395-804d5400-4461-11eb-9b55-3eb3c5c31973.png)
 
 **左右2箇所が接地して、中央が浮いている**、最もベーシックな形状。
 
@@ -87,7 +86,7 @@
 
 ### ロッカー
 
-![rocker](https://user-images.githubusercontent.com/13164104/102822445-6c333380-441c-11eb-8a64-022fd279e786.png)
+![flat](https://user-images.githubusercontent.com/13164104/102852349-66137600-4461-11eb-8928-6badc0ee5cf1.png)
 
 **中央から先端に向けて湾曲**した形状。
 
@@ -97,7 +96,7 @@
 
 ### フラット
 
-![flat](https://user-images.githubusercontent.com/13164104/102822473-7a814f80-441c-11eb-856c-41ee679a6445.png)
+![flat](https://user-images.githubusercontent.com/13164104/102852242-28165200-4461-11eb-84e5-8db98595e479.png)
 
 いっそのこと**湾曲をなくしてペタッとした**形状。
 
@@ -107,7 +106,7 @@
 
 ### ダブルキャンバー
 
-![w](https://user-images.githubusercontent.com/13164104/102822508-8a009880-441c-11eb-8ee2-c53b0d2116bc.png)
+![w](https://user-images.githubusercontent.com/13164104/102852132-df5e9900-4460-11eb-87d0-1fdb073cde2b.png)
 
 **左右の接地点に加えて、中央にも接地点がある**形状。
 
@@ -159,15 +158,19 @@
 
 滑りやすさへの好影響だけでなく、リフトで足が疲れにくいなど、あらゆるメリットがあるぞ！
 
-# ちなみに中矢の板は
+# 僕が選んだボード
 
-![resky](https://user-images.githubusercontent.com/13164104/102823376-1d869900-441e-11eb-9c15-e4562ebaef8d.png)
+![resky](https://user-images.githubusercontent.com/13164104/102851818-21d3a600-4460-11eb-8265-03a8e0f5f4ed.png)
 
 僕の板は、[NOVEMBER RESKY 2019](https://www.novembermfg.com/boards/resky2019/) モデル。
 
-ツイン、フリーキャンバーと呼ばれる独自の形状。
+NOVEMBERという国産メーカー。
 
-グラウンドトリックやジャンプ向きで、かつパウダーでの浮力を狙っているボード！
+スペックはツイン、フレックスは少し固め、トーションは少し柔らかめ。
+
+フリーキャンバーと呼ばれる独自の形状で、キャンバーがベースだがセンターが低く、接地部分が点ではなくフラットになっている。
+
+グラウンドトリックやジャンプ向きで、かつパウダーでの浮力を狙っているボードだ！
 
 初ライドが楽しみ！
 
